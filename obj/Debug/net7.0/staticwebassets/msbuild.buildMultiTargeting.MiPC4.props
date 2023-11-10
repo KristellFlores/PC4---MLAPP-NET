@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiPC4.props" />
+</Project>
